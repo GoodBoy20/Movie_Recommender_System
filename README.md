@@ -100,3 +100,6 @@ Lokesh
 ## License
 
 This project is intended for educational and learning purposes.
+
+## Dataset Link
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
